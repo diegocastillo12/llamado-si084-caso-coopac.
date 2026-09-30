@@ -6,7 +6,7 @@
 |---|---|
 | **Apellidos y nombres** | Castillo Mamani Diego Fernando |
 | **Código de estudiante** | 2022073895 |
-| **URL del repositorio** | `https://github.com/diegocastillo12/llamado-si084-caso-coopac.`(https://github.com/diegocastillo12/llamado-si084-caso-coopac) |
+| **URL del repositorio** | `https://github.com/diegocastillo12/llamado-si084-caso-coopac.`(https://github.com/diegocastillo12/llamado-si084-caso-coopac.) |
 | **Fecha** | 30/09/2026 |
 
 ## 1. Resultados de los procedimientos
